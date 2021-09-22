@@ -6,8 +6,13 @@ Explaination link: https://medium.com/@today.rafi/train-your-own-tiny-yolo-v3-on
 The steps includes:
 
 1.Data Acquisition.
+
 2.Data Preparation according to the yolo.
+
 3.Load Dataset.
+
 4.Train the dataset.
+
 5.Obtain the model weights.
+
 6.Test the model.
