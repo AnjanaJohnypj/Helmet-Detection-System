@@ -21,10 +21,5 @@ The steps includes:
 
  Vehicle Classification
 
- Helmet Detection
-
- License Plate Extraction
-
-
 
 ![image](https://user-images.githubusercontent.com/91131508/134350510-2721b339-e4b3-4e82-9a6c-d0c659bac457.png)
