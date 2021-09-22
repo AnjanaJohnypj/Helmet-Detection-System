@@ -19,15 +19,15 @@ The steps includes:
 
 ## The system consists of four phases:-
 
- Vehicle Classification
+###  Vehicle Classification
 
 
 ![image](https://user-images.githubusercontent.com/91131508/134350510-2721b339-e4b3-4e82-9a6c-d0c659bac457.png)
 
- Helmet Detection
+###  Helmet Detection
 
 ![image](https://user-images.githubusercontent.com/91131508/134350740-45f84dd6-92ac-4f34-9d64-58160adc571e.png)
 
- License Plate Extraction
+###  License Plate Extraction
 
 ![image](https://user-images.githubusercontent.com/91131508/134350805-55855a58-991a-4f70-a572-8ad51dbe0ac6.png)
