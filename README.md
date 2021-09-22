@@ -17,8 +17,12 @@ The steps includes:
 
 6.Test the model.
 
-The system consists of four phases:-
+# The system consists of four phases:-
+
  Vehicle Classification
+
  Helmet Detection
+
  License Plate Extraction
+
  Machine Learning Modules
