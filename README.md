@@ -16,3 +16,9 @@ The steps includes:
 5.Obtain the model weights.
 
 6.Test the model.
+
+The system consists of four phases:-
+ Vehicle Classification
+ Helmet Detection
+ License Plate Extraction
+ Machine Learning Modules
