@@ -25,4 +25,4 @@ The steps includes:
 
  License Plate Extraction
 
- Machine Learning Modules
+
